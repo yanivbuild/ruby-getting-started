@@ -2,6 +2,8 @@
 
 A barebones Rails app, which can easily be deployed to Heroku.
 
+Testing 1 2 3
+
 This application supports the [Getting Started on Heroku with Ruby](https://devcenter.heroku.com/articles/getting-started-with-ruby) article - check it out.
 
 ## Running Locally
